@@ -1,7 +1,6 @@
 #!/bin/bash
 
 set -a
-source ".env"
 DB_URL=jdbc:h2:mem:testdb
 DB_USERNAME=user
 DB_PASSWORD=pass
